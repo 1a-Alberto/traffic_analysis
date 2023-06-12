@@ -12,12 +12,13 @@ Este script de Bash permite realizar un análisis de tráfico de red utilizando 
 - Sistema operativo Ubuntu o Termux.
 
 ## Instrucciones de uso
+### Se requiere que sea usuario root 
 
-1. Clona este repositorio
-<li>git clone https://github.com/HAME-RU/traffic_analysis.git</li>
-2. Abre una terminal y navega hasta el directorio donde se encuentra el script
- <li>cd traffic_analysis </li>
-3. Ejecuta el script con el siguiente comando:
+<h4>1. Clona este repositorio<li>git clone
+https://github.com/HAME-RU/traffic_analysis.git</li>
+<h4>2. Abre una terminal y navega hasta el directorio donde se encuentra el script
+<li>cd traffic_analysis </li>
+<h4>3. Ejecuta el script con el siguiente comando:
 <li>./traffic_analysis.sh</li>
 
 
